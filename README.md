@@ -5,3 +5,5 @@
 - Project 2 was created with Python code from Colab. You can also review the questions and outcomes in the reports.
 
 I wish everyone good luck.
+
+You can contact and connect with me <a>[LinkedIn](https://www.linkedin.com/in/alicansariboga/)<a/> or <b><a href="mailto:alicansariboga1@gmail.com" target="blank">E-Mail</a></b>
