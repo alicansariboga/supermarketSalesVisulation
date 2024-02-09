@@ -4,7 +4,7 @@
 - Project 1 was prepared as Code via Tableau. Alternatively, PowerBI can also be selected.
 - Project 2 was created with Python code from Colab. You can also review the questions and outcomes in the reports.
 
-### Tableau Dashboard Screenshot (Project-1)
+#### Tableau Dashboard Screenshot (Project-1)
 ![project_1](https://github.com/alicansariboga/supermarketSalesVisulation/assets/23722313/de33acc1-69fd-42c9-b824-8fe444f55254)
 
 I wish everyone good luck.
